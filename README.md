@@ -10,5 +10,15 @@ A Python toolkit for common pharmaceutical and API R&D calculations.
 - Solvent recovery calculation
 
 ## 🚀 How to Run
-```bash
-python main.py
+▶️ Install the STREAMLIT APP
+✅ Step 1: Open Command Prompt
+Select the root folder
+ex-
+cd C:\Users\Calculation
+
+✅ Step 2: Install Streamlit
+pip install streamlit
+
+✅ Step 3: Run the App
+streamlit run app.py
+
